@@ -49,7 +49,7 @@ A sleek design tailored for real estate businesses.
 ## 🌍 Let’s Connect
 
 - **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-- **LinkedIn**: [linkedin.com/in/salman-izhar](https://linkedin.com/in/salman-izhar)
+- **LinkedIn**: [linkedin.com/in/salman-izhar](https://www.linkedin.com/in/salman-izhar/)
 - **GitHub**: [github.com/salman-izhar](https://github.com/salman-izhar)
 - **Email**: salman.izhar@gmail.com
 
