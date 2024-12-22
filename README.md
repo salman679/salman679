@@ -50,7 +50,7 @@ A sleek design tailored for real estate businesses.
 
 - **Portfolio**: [yourwebsite.com](https://salmanizhar.com/)
 - **LinkedIn**: [linkedin.com/in/salman-izhar](https://www.linkedin.com/in/salman-izhar/)
-- **GitHub**: [https://github.com/salman679](https://github.com/Salman-Izhar)
+- **GitHub**: [https://github.com/Salman-Izhar](https://github.com/salman679)
 - **Email**: Sbinazhar671@gmail.com
 
 ---
