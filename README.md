@@ -39,7 +39,7 @@ I'm **Salman Izhar**, a passionate **Frontend Developer** and enthusiastic **Tec
 Crafted a modern, responsive website for a digital agency.
 
 ### 2. **[Movie Portal](https://yourportfolio.com/movie-portal)**
-A feature-rich portal for exploring, adding, and managing movies with user favorites.
+A feature-rich portal for exploring, adding, and managing movies with user favourites.
 
 ### 3. **[Real Estate Website Design](https://yourportfolio.com/real-estate)**
 A sleek design tailored for real estate businesses.
@@ -50,7 +50,7 @@ A sleek design tailored for real estate businesses.
 
 - **Portfolio**: [yourwebsite.com](https://salmanizhar.com/)
 - **LinkedIn**: [linkedin.com/in/salman-izhar](https://www.linkedin.com/in/salman-izhar/)
-- **GitHub**: [https://github.com/salman679](https://github.com/salman679)
+- **GitHub**: [https://github.com/salman679](https://github.com/Salman-Izhar)
 - **Email**: Sbinazhar671@gmail.com
 
 ---
