@@ -1,6 +1,6 @@
 ![Banner Image](https://i.ibb.co.com/nL5t7S8/1712158454650.jpg)
 
-# Hi there! 👋
+# Welcome to My Portfolio! 👋
 
 I'm **Salman Izhar**, a passionate **Frontend Developer** and enthusiastic **Tech Entrepreneur** from Bangladesh. I specialize in crafting intuitive and scalable user interfaces with modern web technologies and have a deep interest in building innovative solutions that make a difference.
 
