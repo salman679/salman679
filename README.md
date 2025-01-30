@@ -18,9 +18,9 @@ I'm **Salman Izhar**, a passionate **Frontend Developer** and enthusiastic **Tec
 ## 🔧 Tech Stack
 
 - **Frontend**: React, TypeScript, Next.js, Tailwind CSS, Chakra UI.
-- **Backend**: Node.js, Express, NestJS.
+- **Backend**: Node.js, Express JS, NestJS.
 - **Database**: MongoDB, PostgreSQL.
-- **Tools**: Git, Vite, Figma, Docker.
+- **Tools**: Git, Vite, Figma, Photoshop.
 
 ---
 
