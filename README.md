@@ -19,7 +19,7 @@ I'm **Salman Izhar**, a passionate **Frontend Developer** and enthusiastic **Tec
 
 - **Frontend**: React, TypeScript, Next.js, Tailwind CSS, Chakra UI.
 - **Backend**: Node.js, Express JS, NestJS.
-- **Database**: MongoDB, PostgreSQL.
+- **Database**: MongoDB, PostgreSQL, MySQL.
 - **Tools**: Git, Vite, Figma, Photoshop.
 
 ---
@@ -52,6 +52,7 @@ A sleek design tailored for real estate businesses.
 - **LinkedIn**: [linkedin.com/in/salman-izhar](https://www.linkedin.com/in/salman-izhar/)
 - **GitHub**: [https://github.com/salman679](https://github.com/salman679)
 - **Email**: Sbinazhar671@gmail.com
+- **Contact Number**: +8801690181508
 
 ---
 
