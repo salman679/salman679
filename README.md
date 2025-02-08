@@ -76,6 +76,7 @@ I’m not just a developer but also a language enthusiast, fluent in Arabic, Eng
 
 ## My Stats
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=salman679&theme=dark" alt="GitHub Streak" /></a>
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salman679&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
