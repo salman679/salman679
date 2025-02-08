@@ -33,19 +33,6 @@ I'm **Salman Izhar**, a passionate **Frontend Developer** and enthusiastic **Tec
 
 ---
 
-## 📂 Featured Projects
-
-### 1. **[Digital Agency Website Design](https://yourportfolio.com/digital-agency)**
-Crafted a modern, responsive website for a digital agency.
-
-### 2. **[Movie Portal](https://yourportfolio.com/movie-portal)**
-A feature-rich portal for exploring, adding, and managing movies with user favourites.
-
-### 3. **[Real Estate Website Design](https://yourportfolio.com/real-estate)**
-A sleek design tailored for real estate businesses.
-
----
-
 ## 🌍 Let’s Connect
 
 - **Portfolio**: [Salmanizhar.com](https://salmanizhar.com/)
