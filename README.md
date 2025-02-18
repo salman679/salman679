@@ -1,4 +1,4 @@
-![Banner Image](https://i.ibb.co.com/nL5t7S8/1712158454650.jpg)
+![Banner Image](https://ibb.co.com/W4TQsBVF)
 
 # Welcome to My Portfolio! 👋
 
