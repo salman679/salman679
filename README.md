@@ -1,4 +1,4 @@
-![Banner Image](https://i.ibb.co.com/G4hXFCHk/Green-and-Black-Modern-Futuristic-Artificial-intelligence-Presentation.png)
+![Banner Image](https://i.ibb.co.com/tjrvC9p/Green-and-Black-Modern-Futuristic-Artificial-intelligence-Presentation-1.png)
 
 # Welcome to My Portfolio! 👋
 
